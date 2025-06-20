@@ -133,24 +133,10 @@ Upon launching the application, you will be greeted with a welcome message, curr
 
 ## Contributors
 
-Stanley Chew Jun Xian
-- Product
-- Refrigerator
-- TV
-
-Tee Chi Sheng
-- WashingMachine
-- SMSGUI
-
-Au Chi Le
-- Add Stock function
-- SMS
-- UserInfo
-
-Lim Jin Zhao
-- Deduct Stock function
-- SMS
-- UserInfo
+* **Stanley Chew Jun Xian**
+* **Tee Chi Sheng**
+* **Au Chi Le**
+* **Lim Jin Zhao**
 
 ## License
 
